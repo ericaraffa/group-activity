@@ -3,16 +3,16 @@
 
 ECLIPSE connector/j
 
-Per utilizzare connector/j in eclipse,
-  -Creare una directory nel progetto ( i.e. "lib" )
-  -Copiare il file jar all'intero
-  -Click destro sul progetto nel Package Explorer
-  -Build path -> Add external Package -> Selezionare mysql-connector-java-8.0.26.jar
+Per utilizzare connector/j in eclipse,<br />
+  -Creare una directory nel progetto ( i.e. "lib" )<br />
+  -Copiare il file jar all'intero<br />
+  -Click destro sul progetto nel Package Explorer<br />
+  -Build path -> Add external Package -> Selezionare mysql-connector-java-8.0.26.jar<br />
+  <br /><br />
   
+IntelliJ connector/j<br />
   
-IntelliJ connector/j
-  
-Per utilizzare connector/j in IntelliJ,
-  -File -> Project Structure -> Modules
-  -Selezionare la tendina "Dependecies" ed in seguito il tasto " + "
-  -Selezionare "jars" dal menu' -> Selezionare mysql-connector-java-8.0.26.jar
+Per utilizzare connector/j in IntelliJ,<br />
+  -File -> Project Structure -> Modules<br />
+  -Selezionare la tendina "Dependecies" ed in seguito il tasto " + "<br />
+  -Selezionare "jars" dal menu' -> Selezionare mysql-connector-java-8.0.26.jar<br />
